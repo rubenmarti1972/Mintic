@@ -1,0 +1,22 @@
+.register{
+    border: 1px solid black; 
+    margin: 50px;
+    padding: 10px;
+    border-radius: 25%;
+}
+
+.login{
+    border: 1px solid black; 
+    margin: 50px;
+    padding: 10px;
+    border-radius: 20% 0% 20% 0%;
+}
+
+.contCard{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.card{
+    margin: 4px;
+}
